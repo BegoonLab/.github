@@ -17,7 +17,7 @@ Welcome to BegoonLab, a leading technology consulting company founded by [Alexan
 
 We'd love to hear from you! To discuss your project requirements or learn more about our services, please contact us:
 
-- Email: [alex@begoonlab.com](mailto:alex@begoonlab.com)
+- Email: [alex@begoonlab.tech](mailto:alex@begoonlab.tech)
 - Website: [begoonlab.tech](https://begoonlab.tech)
 
 ---
