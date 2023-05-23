@@ -1,5 +1,4 @@
-
-![BegoonLab Logo](https://begoonlab.tech/img/logo.png)
+![BegoonLab Logo](https://begoonlab.tech/images/logo-github.png)
 
 ## About
 
