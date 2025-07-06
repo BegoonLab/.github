@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to BegoonLab, a leading technology consulting company founded by [Alexander Begoon](https://github.com/alexbegoon), an accomplished software engineer with over a decade of experience in various programming languages. At BegoonLab, we are committed to developing innovative solutions by leveraging the latest advancements in AI, embedded development, and IoT. Our mission is to provide our clients with effective and affordable technological consulting services, delivering customized and modern solutions to their challenges.
+Welcome to BegoonLab, a technology consulting company founded by [Alexander Begoon](https://github.com/alexbegoon), an accomplished software engineer with over a decade of experience in various programming languages. At BegoonLab, we are committed to developing innovative solutions by leveraging the latest advancements in AI, embedded development, and IoT. Our mission is to provide our clients with effective and affordable technological consulting services, delivering customized and modern solutions to their challenges.
 
 ## Services
 
